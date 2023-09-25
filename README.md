@@ -6,7 +6,7 @@
 [![Slack](https://img.shields.io/badge/slack-failsafe-brightgreen.svg?logo=slack)](https://failsafe-lib.slack.com)
 [![JavaDoc](https://img.shields.io/maven-central/v/dev.failsafe/failsafe.svg?maxAge=60&label=javadoc)](https://failsafe.dev/javadoc/core)
 
-Failsafe-clj is a lightweight, zero-dependency library for handling failures in Clojure, with a concise API for handling everyday use cases and the flexibility to handle everything else. It works by wrapping executable logic with one or more resilience policies, which can be combined and composed as needed.  
+Failsafe-clj is a lightweight library for handling failures, with a concise API for handling everyday use cases and the flexibility to handle everything else. It works by wrapping executable logic with one or more resilience policies, which can be combined and composed as needed. It aimes to provide full functionality of [Failsafe](https://github.com/failsafe-lib/failsafe) in Clojure.  
 
 Policies include [Retry](https://failsafe.dev/retry/), [CircuitBreaker](https://failsafe.dev/circuit-breaker/), [RateLimiter](https://failsafe.dev/rate-limiter/), [Timeout](https://failsafe.dev/timeout/), [Bulkhead](https://failsafe.dev/bulkhead/), and [Fallback](https://failsafe.dev/fallback/). Additional modules include [OkHttp](https://failsafe.dev/okhttp/) and [Retrofit](https://failsafe.dev/retrofit/).
 
