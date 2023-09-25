@@ -20,4 +20,4 @@ Check out the [contributing guidelines](https://github.com/failsafe-lib/failsafe
 
 ## License
 
-Copyright Vlad Nabatov and friends. Released under the [EPL 1.0 license](https://github.com/failsafe-clj/failsafe-clj/blob/master/LICENSE).
+Copyright Vlad Nabatov and friends. Released under the [EPL 2.0 license](https://github.com/failsafe-clj/failsafe-clj/blob/master/LICENSE).
